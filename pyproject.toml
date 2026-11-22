@@ -1,0 +1,35 @@
+[project]
+name = "tinyfix-ar"
+version = "1.0.0"
+description = "A tiny on-device model that fixes correctly spelled but wrong Arabic words."
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=3.0",
+    "numpy>=2.0",
+    "onnx>=1.17",
+    "onnxruntime>=1.20",
+    "torch>=2.6",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.8"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/tinyfix_ar"]
+
+[tool.ruff]
+line-length = 160
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM", "RUF"]
+ignore = ["RUF001", "RUF002", "RUF003"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

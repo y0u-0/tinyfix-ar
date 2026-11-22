@@ -1,0 +1,7 @@
+{
+	"name": "tinyfix-ar",
+	"compatibility_date": "2026-10-19",
+	"assets": { "directory": "./dist" },
+	"routes": [{ "pattern": "tinyfix.dahaleez.ai", "custom_domain": true }],
+	"workers_dev": true
+}

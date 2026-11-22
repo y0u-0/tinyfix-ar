@@ -1,0 +1,58 @@
+{
+  "name": "tinyfix-ar",
+  "version": "1.0.0",
+  "description": "Fixes Arabic spelling as you type, in the browser: a 9 MB model that catches real-word mistakes spell checkers miss.",
+  "keywords": [
+    "arabic",
+    "autocorrect",
+    "spelling",
+    "spell-checker",
+    "onnx",
+    "browser",
+    "offline"
+  ],
+  "homepage": "https://tinyfix.dahaleez.ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y0u-0/tinyfix-ar.git",
+    "directory": "web"
+  },
+  "bugs": "https://github.com/y0u-0/tinyfix-ar/issues",
+  "license": "MIT",
+  "type": "module",
+  "sideEffects": false,
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "check": "tsc --noEmit",
+    "test": "tsx --test test/*.test.ts",
+    "fixtures": "../.venv/bin/python -I scripts/make-parity-fixtures.py",
+    "format": "prettier --write src test scripts",
+    "format:check": "prettier --check src test scripts",
+    "prepublishOnly": "npm run check && npm test && npm run build"
+  },
+  "dependencies": {
+    "onnxruntime-web": "~1.31.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "esbuild": "^0.28.2",
+    "onnxruntime-node": "~1.31.1",
+    "prettier": "^3.10.1",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

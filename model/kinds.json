@@ -1,0 +1,12 @@
+{
+  "typed": 0,
+  "hamza": 1,
+  "taa_marbuta": 2,
+  "alif_maqsura": 3,
+  "alif_fariqa": 4,
+  "spelling_mixed": 5,
+  "sound_alike": 6,
+  "clitic": 7,
+  "typo": 8,
+  "other": 9
+}

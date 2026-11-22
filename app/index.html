@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>tinyfix عربي — يصحح إملاءك وأنت تكتب</title>
+	<meta name="description" content="نموذج صغير (٩ ميغابايت) يصحح الأخطاء الإملائية العربية وأنت تكتب، داخل متصفحك.">
+	<link rel="preload" href="fonts/Amiri-Regular.ttf" as="font" type="font/ttf" crossorigin>
+	<link rel="icon" href="favicon.svg" type="image/svg+xml">
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header class="top">
+		<div class="brand" dir="ltr"><b>tinyfix</b><span class="ar">عربي</span></div>
+		<div class="status" id="status"><span class="dot"></span><span id="status-text">يحمّل النموذج…</span></div>
+	</header>
+
+	<main class="page">
+		<div class="editor" id="editor">
+			<div class="backdrop" id="backdrop" aria-hidden="true"></div>
+			<textarea id="input" rows="1" spellcheck="false" autocomplete="off" autocapitalize="off" aria-label="اكتب هنا" placeholder="اكتب أي شيء، وسأصحح الإملاء وأنت تكتب…"></textarea>
+			<div class="popover" id="popover" hidden>
+				<span>كانت <b id="popover-original"></b></span>
+				<button type="button" id="popover-undo">تراجع</button>
+			</div>
+		</div>
+
+		<footer class="bar">
+			<button type="button" class="chip" id="example">جرّب مثالًا</button>
+			<button type="button" class="chip ghost" id="clear">امسح</button>
+			<span class="count" id="count"></span>
+			<button type="button" class="chip ghost sound" id="sound" aria-pressed="true" title="الصوت">صوت</button>
+		</footer>
+	</main>
+
+	<p class="note">٩ ميغابايت، ويعمل كله على جهازك. لا يغادر نصك المتصفح.</p>
+	<canvas id="dots" aria-hidden="true"></canvas>
+	<script type="module" src="app.js"></script>
+</body>
+</html>

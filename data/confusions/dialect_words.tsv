@@ -1,0 +1,291 @@
+word	gloss	region	note
+ابغى	I want	general	Najdi and Hijazi; MSA أبغي
+ابغا	I want	general	spelling variant of ابغى
+أبغى	I want	general	hamza spelling of ابغى
+ابي	I want	Najdi	contracted ابغي; looks like MSA أبي 'my father'
+تبغى	you want	general	
+تبغا	you want	general	spelling variant
+تبي	you want	Najdi	
+تبون	you (pl.) want	Najdi	
+يبي	he wants	Najdi	
+يبغى	he wants	general	
+يبغا	he wants	general	spelling variant
+نبغى	we want	general	
+يبون	they want	Najdi	
+بغيت	I wanted	general	
+ابغاك	I want you	general	
+ابيك	I want you	Najdi	
+ودك	would you like	general	looks like MSA وُدّك 'your affection'
+وش	what	Najdi	Alruily 2020: 1,119 tokens in Saudi tweets, 0 in MSA news; Egyptian وش 'face'
+ويش	what	Gulf	Eastern Province
+وشو	what is it	Najdi	
+وشهو	what is it	Najdi	
+ايش	what	Hijazi	Alruily 2020: 111 tokens
+إيش	what	Hijazi	hamza spelling
+شنو	what	Gulf	Eastern Province
+شلون	how	Gulf	also Northern Saudi; Alruily 2020: 188 tokens
+وشلون	how	Najdi	
+شلونك	how are you	Gulf	
+وشلونك	how are you	Najdi	
+شخبارك	how are you	Gulf	
+علومك	your news (وش علومك)	Najdi	
+وشفيك	what's wrong with you	Najdi	
+ليش	why	general	
+ليه	why	Hijazi	
+وراك	why, what's with you	Najdi	looks like MSA وراءك without hamza
+وراه	why, what for	Najdi	looks like MSA وراءه without hamza
+وين	where	Najdi	also Gulf; listed in the lexicon README as a rejected dialect form
+فين	where	Hijazi	
+منين	from where	general	
+مين	who	Hijazi	
+منو	who	Gulf	
+منهو	who	Najdi	
+امتى	when	Hijazi	
+إمتى	when	Hijazi	hamza spelling
+اللحين	now	Najdi	
+دحين	now	Hijazi	from ذا الحين
+توه	just now, he just	general	
+توني	I just	general	
+توك	you just	general	
+تونا	we just	general	
+بكره	tomorrow	general	MSA بكرة 'early morning'
+بكرا	tomorrow	Hijazi	
+البارح	last night, yesterday	Najdi	
+بعدين	later	general	
+شوي	a little	general	
+شوية	a little	Hijazi	
+شويه	a little	general	ه spelling is the common one
+الين	until	Hijazi	
+دوم	always	Najdi	
+دايم	always; lasting	Najdi	ي for ئ (MSA دائم)
+دايما	always	general	ي for ئ (MSA دائما)
+مب	not	Najdi	also Gulf; CODA spelling (Gumar); Alruily 2020: 121 tokens with موب
+موب	not	Najdi	non-CODA variant of مب
+مهوب	not	Najdi	
+مو	not	Hijazi	also Gulf
+ماهو	isn't it, it is not	general	
+ماهي	isn't it (f.)	general	
+مانيب	I'm not	Najdi	CODA spelling (Gumar)
+ماني	I'm not	general	joined ما + ني
+مافي	there isn't	general	
+مافيه	there isn't	general	
+مدري	I don't know	general	from ما أدري
+مادري	I don't know	general	
+اي	yes	Najdi	looks like MSA أي without hamza [lexicon one_way: اي→أي, اي→آي]
+ايه	yes	Najdi	also Gulf
+ايوه	yes	Hijazi	
+ايوا	yes	Hijazi	
+اوكي	okay	general	
+ماعليه	never mind	Najdi	joined ما عليه
+معليش	sorry, never mind	general	
+معلش	sorry, never mind	Hijazi	
+لبيه	at your service	Najdi	
+تكفى	please, I beg you	Najdi	
+تكفين	please (f.)	Najdi	
+تكفون	please (pl.)	Najdi	
+مشكور	thank you	general	
+مشكورة	thank you (f.)	general	
+تسلمين	thank you (f.)	general	
+تسلمون	thank you (pl.)	general	
+يسلمو	thank you	Hijazi	
+ماقصرت	thank you	general	joined ما قصرت
+حياك	welcome	general	
+حياكم	welcome (pl.)	general	
+اهلين	hi	general	
+ياهلا	welcome	general	joined يا هلا
+ياخي	man, come on	general	joined يا أخي
+ياخوي	my brother	general	
+اخوي	my brother	general	dialect أخوي
+اخويا	my brother	Hijazi	
+خوي	buddy	Najdi	
+خويي	my buddy	Najdi	
+خويه	his buddy	Najdi	
+ربعي	my friends, my folks	Najdi	
+ابوي	my father	general	
+يبه	dad (calling)	Najdi	
+يمه	mom (calling)	general	
+يالغالي	my dear	general	
+ياعمري	my dear	general	
+فديتك	my dear (lit. I'd ransom you)	general	
+فديت	I'd ransom (فديت قلبك)	general	
+كفو	bravo, well done	Najdi	
+ترا	you know, by the way	general	spelling variant of ترى
+برضو	also	Hijazi	
+برضه	also	Hijazi	
+بس	only, but, enough	general	
+عشان	because, so that	general	Alruily 2020 lists it among Saudi tokens absent from MSA top 50
+علشان	because, so that	Hijazi	
+كذاك	like that	Najdi	
+وايد	a lot, very	Gulf	Eastern Province
+واجد	a lot	Gulf	MSA واجد 'finder'
+مرا	very	Hijazi	Hijazi spelling; looks like مرأى without hamza
+هذي	this (f.)	general	classical too; the lexicon corrects هذي to هذه [lexicon one_way: هذي→هذه]
+هذولا	these	Najdi	
+هذولي	these	Najdi	
+هذول	these	Najdi	
+ذولا	these	Najdi	
+ذولي	these	Najdi	
+هذاك	that	general	
+هذيك	that (f.)	general	
+ذيك	that (f.)	Najdi	
+هالشي	this thing	general	ها + noun; Alruily 2020 lists هالدعم, بهالبلد
+هالكثر	this much	general	
+احنا	we	general	
+انتي	you (f.)	general	MSA writes أنتِ
+انتو	you (pl.)	Hijazi	
+بيروح	he'll go	Hijazi	
+اجي	I come	general	
+يجي	he comes	general	MSA يجيء
+تجي	you come	general	
+جيت	I came	general	
+جا	he came	general	looks like MSA جاء without hamza
+جاني	he came to me	general	
+شف	look	general	
+شوف	look, see	general	
+اشوف	I see	general	
+تشوف	you see	general	
+شفت	I saw	general	
+شايف	seeing, you see	general	ي for ئ
+سوا	he did; together	general	spelling variant of سوى
+اسوي	I do	general	
+يسوي	he does	general	
+تسوي	you do	general	
+سويت	I did	general	
+سوينا	we did	general	
+يمديك	you can, you have time	Najdi	
+يمدي	it's possible	Najdi	
+يمديني	I can	Najdi	
+خلني	let me	general	
+خلنا	let's	general	
+خله	let him, leave it	general	
+خلك	stay	general	
+خليني	let me	Hijazi	
+خلينا	let's	Hijazi	
+عطني	give me	Najdi	
+عطيني	give me	Hijazi	
+عطاني	he gave me	general	
+بشرني	tell me the news	general	
+بشرنا	tell us the news	general	
+طق	hit; tease	general	
+طقطقة	teasing, banter	general	
+يطقطق	teases	general	
+هياط	boasting	Najdi	
+سالفه	story, matter	general	ه spelling is the common one
+سوالف	chats, stories	general	
+سولف	chat, tell	general	
+يسولف	chats	general	
+فزعة	rallying to help	Najdi	
+فزعه	rallying to help	Najdi	ه spelling
+مبطي	it's been a long time	Najdi	
+بطيت	I was late	Najdi	
+يبطي	takes long	Najdi	
+بدري	early	general	
+يلا	come on	general	
+يالله	come on; O God	general	
+زعلان	upset	general	
+زعلانة	upset (f.)	general	
+طفشان	bored	general	
+طفش	boredom; got bored	general	
+مستانس	happy, enjoying	general	
+مبسوط	happy	general	
+وناسة	fun	general	
+يهبل	awesome	general	
+يجنن	awesome	general	MSA يجنّن 'drives mad'
+مزيون	nice, pretty	Najdi	
+شينة	ugly, bad (f.)	general	
+فشيلة	embarrassing	general	
+خبال	craziness	Najdi	
+غثيث	annoying	Najdi	
+يغث	annoys	Najdi	
+بايخ	lame, silly	general	
+بزران	kids	Najdi	
+ورعان	kids	Najdi	
+موتر	car	Gulf	
+دباب	motorbike	general	[lexicon one_way: دباب→ذباب]
+سيكل	bicycle	general	
+ليموزين	taxi	general	Saudi usage
+شاهي	tea	general	
+فنجال	coffee cup	Najdi	
+فناجيل	coffee cups	Najdi	
+دلة	coffee pot	general	
+بيالة	tea glass	general	
+كبسة	kabsa (rice dish)	general	
+كبسه	kabsa	general	ه spelling
+جريش	jareesh (dish)	Najdi	
+مرقوق	marqooq (dish)	Najdi	
+مطازيز	matazeez (dish)	Najdi	
+كليجا	kleeja (Qassim pastry)	Najdi	
+حنيني	haneeni (dish)	Najdi	
+مندي	mandi (dish)	Southern	
+مظبي	madhbi (stone-grilled meat)	Southern	ظ is the usual spelling; do not change to ض
+معصوب	ma'soob (banana bread dish)	Southern	also Hijazi
+حنيذ	haneeth (slow-roasted meat)	Southern	
+عريكة	areeka (dish)	Southern	
+تميس	tamees (bread)	Hijazi	
+سوبيا	sobia (drink)	Hijazi	
+بليلة	balila (chickpeas)	Hijazi	
+لقيمات	luqaimat (sweet)	general	
+شماغ	red-checked headdress	general	
+غترة	white headdress	general	
+مشلح	formal cloak	general	
+بشت	formal cloak	general	
+عباية	abaya	general	MSA عباءة
+عبايه	abaya	general	ه spelling
+كشتة	desert outing	Najdi	
+كشته	desert outing	Najdi	ه spelling
+كشتات	desert outings	Najdi	
+الديرة	home town	Najdi	
+ديرتي	my home town	Najdi	
+حارتنا	our neighbourhood	general	
+الحوش	the yard	general	
+المقلط	dining room	Najdi	
+بيزات	money	Gulf	
+هللات	halalas	general	
+فكة	small change	general	
+قوقل	Google	general	Saudi spelling; Egyptian جوجل, Levantine غوغل
+قروب	group (chat)	general	
+القروب	the group	general	
+قيمز	games	general	
+سناب	Snapchat	general	
+سنابي	my Snapchat	general	
+واتس	WhatsApp	general	
+الواتس	WhatsApp	general	
+ستوري	story (social media)	general	
+بلوك	block	general	Alruily 2020
+منشن	mention	general	Alruily 2020
+رتويت	retweet	general	Alruily 2020
+حقت	of (f.)	Najdi	
+حقتي	mine (f.)	Najdi	
+تبعي	mine	Hijazi	
+اللي	who, which	general	listed in the lexicon README as a rejected dialect form
+الي	who, which	general	one-lam spelling of اللي; Alruily 2020 lists it; collides with الى/إلي [lexicon one_way: الي→إلى, الي→إلي]
+عشا	dinner	general	MSA عشاء
+سواق	driver	general	
+السواق	the driver	general	
+شغالة	housemaid	general	
+الشغالة	the housemaid	general	
+البنشر	the tyre shop	general	
+الحلا	the dessert	general	
+هنت	thanks (لا هنت)	Najdi	MSA هنت 'became easy'
+ياحليلك	how sweet of you	Najdi	
+حليله	how sweet of him	Najdi	
+اشوى	thank God (it's fine)	Najdi	
+الغلا	dearness, love	general	looks like MSA غلاء 'high prices' without hamza
+غلاتي	my dear	general	
+مطوع	religious man	general	
+حطيت	I put	general	
+شيل	carry, remove	general	
+السموحة	sorry, excuse me	Najdi	
+السموحه	sorry, excuse me	Najdi	ه spelling
+الحسا	Al-Ahsa (colloquial name)	Gulf	Eastern Province; formal الأحساء
+عايش	living, alive	general	ي for ئ (MSA عائش)
+عايشة	living (f.)	general	also the name عائشة written with ي
+خايف	afraid	general	ي for ئ (MSA خائف)
+نايم	asleep	general	ي for ئ
+رايح	going	general	ي for ئ
+جاي	coming	general	from جاء
+ساكت	quiet	general	
+صايم	fasting	general	ي for ئ (MSA صائم)
+ماشي	okay; walking	Hijazi	
+مره	very (مرة "once" in MSA)	general	Gulf intensifier, as in مره حلو; v6 changed it to مرة 4 times on saudi_dev
+ثنتين	two (feminine)	general	Gulf for اثنتين; v6 changed it to سنتين on saudi_dev
